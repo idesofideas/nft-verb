@@ -13,6 +13,6 @@ A concern that will only inflate over time, perhaps proportional to the trends o
 
 WAX also utilizes their brand as a collaborator with legacy companies such as [Topps Trading Cards](https://toppsmlb.com/), [Capcom games](https://streetfighter.cards/), [Atari](https://atarinft.io/), and individuals such as [William Shatner](https://shatner.wax.io/) and [Deadmau5]().
 
-There exists considerable documentation for developers to build with their [API's](https://developer.wax.io/products/), ranging from entropy containters (fair random number generator/DRNG), Dapps, and a Cloud Wallet.*
+There exists considerable documentation for developers to build with their [API's](https://developer.wax.io/products/), ranging from entropy containers (fair random number generator/DRNG), Dapps, and a Cloud Wallet.*
 
 \*A recommended prerequisite for the dev aspect is their [Docker](https://developer.wax.io/dapps/docker-quickstart/) integration
