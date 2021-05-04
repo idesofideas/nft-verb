@@ -1,7 +1,7 @@
 ---
 date: 2021-05-04T07:00:00Z
 title: Foundation
-author: The Servant of Terms
+author: The Jeantreprenuer
 hero_image: "/content/images/image3a6698_mirror.jpg"
 
 ---
