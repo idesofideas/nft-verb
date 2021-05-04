@@ -2,41 +2,33 @@
 date: 2019-08-08T22:42:09.000+00:00
 title: Sunflower Sutra
 author: Allen Ginsberg
-hero_image: "/content/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
+hero_image: "/content/images/image3a6696_mirror.jpg"
 
 ---
-I walked on the banks of the tincan banana dock and sat down under the huge shade of a Southern Pacific locomotive to look for the sunset over the box house hills and cry.
+[OpenSea](opensea.io) is one of the first and surviving digital file brokers on the internet.
 
-Jack Kerouac sat beside me on a busted rusty iron pole, companion, we thought the same thoughts of the soul, bleak and blue and sad-eyed, surrounded by the gnarled steel roots of trees of machinery.
+     //Consider [ascribe.io](ascribe.io) as a precursor//
 
-![](/content/images/elcarito-CRn-_80z4SE-unsplash.jpg)
+With **≈ 6400**^1 ₿ in sales thus far generated, they are the pre-imminent clearinghouse for all things non-fungible in the burgeoning space.
 
-The only water on the river mirrored the red sky, sun sank on top of final Frisco peaks, no fish in that stream, no hermit in those mounts, just ourselves rheumy-eyed and hung-over like old bums on the riverbank, tired and wily.
+Many Web3 wallets are now applicable to use with OpenSea participation, whether creating, selling, reselling, and/or buying.
 
-Look at the Sunflower, he said, there was a dead gray shadow against the sky, big as a man, sitting dry on top of a pile of ancient sawdust–
+They possess an above-average resource repository for interested individuals with a curiosity for more in-depth acumen to the technology behind NFT's, namely ERC-721, ERC-20, & ERC-1155 protocols.
 
-\--I rushed up enchanted–it was my first sunflower, memories of Blake–my visions–Harlem
+Recently, they added an [NFT Bible](https://opensea.io/blog/guides/non-fungible-tokens/) doc that provides a thorough 101 on all you need to know about the smart-contract _de jure._
 
-# “the gray Sunflower poised against the sunset, crackly bleak and dusty with the smut and smog and smoke of olden locomotives in its eye”
+Extensive tutorials exist on how to build tokens and contracts.*
 
-and Hells of the Eastern rivers, bridges clanking Joes greasy Sandwiches, dead baby carriages, black treadless tires forgotten and unretreaded, the poem of the riverbank, condoms & pots, steel knives, nothing stainless, only the dank muck and the razor-sharp artifacts passing into the past–
+**NOTES:**
 
-and the gray Sunflower poised against the sunset, crackly bleak and dusty with the smut and smog and smoke of olden locomotives in its eye–
+If you want to buy Ether to pay for to fill up your MetaMask Wallet, neither the portals MoonPay nor Wyre will accept Debit Bank cards, only Visa/Mastercard Credit.
 
-corolla of bleary spikes pushed down and broken like a battered crown, seeds fallen out of its face, soon-to-be-toothless mouth of sunny air, sunrays obliterated on its hairy head like a dried wire spiderweb,
+Currently, (April 2021) there is a one-time Gas fee to complete the transaction. (est. $50 USD). After which, the Web3 wallet that made the GAS transaction will be authorized to sell on OpenSea without any further costs.
 
-leaves stuck out like arms out of the stem, gestures from the sawdust root, broke pieces of plaster fallen out of the black twigs, a dead fly in its ear,
+\*Of course, many of the tutorials possess the teleology that you direct your builds into the OpenSea ecosystem, which owns a custodial database which ultimately houses all of the digital NFT assets with no escape velocity to other ownership.
 
-Unholy battered old thing you were, my sunflower O my soul, I loved you then!
+See this succinct recent Medium article about the topic. _(Author holds no position in Topps or Wax, though, is a IPFS developer and advocate)_
 
-![](/content/images/francesco-mazzoli-0xh3QPqcfKM-unsplash.jpg)
+***
 
-The grime was no man’s grime but death and human locomotives,
-
-all that dress of dust, that veil of darkened railroad skin, that smog of cheek, that eyelid of black mis’ry, that sooty hand or phallus or protuberance of artificial worse-than-dirt–industrial–modern–all that civilization spotting your crazy golden crown–
-
-and those blear thoughts of death and dusty loveless eyes and ends and withered roots below, in the home-pile of sand and sawdust, rubber dollar bills, skin of machinery, the guts and innards of the weeping coughing car, the empty lonely tincans with their rusty tongues alack, what more could I name, the smoked ashes of some cock cigar, the cunts of wheelbarrows and the milky breasts of cars, wornout asses out of chairs & sphincters of dynamos–all these
-
-entangled in your mummied roots–and you standing before me in the sunset, all your glory in your form!
-
-A perfect beauty of a sunflower! a perfect excellent lovely sunflower existence! a sweet natural eye to the new hip moon, woke up alive and excited grasping in the sunset shadow sunrise golden monthly breeze!
+^1 or **≈** 638,881,973,194 as of 1619547702
