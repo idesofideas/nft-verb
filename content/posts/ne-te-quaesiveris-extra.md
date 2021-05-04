@@ -14,3 +14,5 @@ The next step will be to join the Community Upvote, which is a waiting list, tho
 Signing up provides no timeline as to a window that one's application might be processed to commence privileging user features.
 
 The bidding velocity exists in a majority window of .01 - 2 Eth.
+
+![](/content/images/foundationsplash.PNG)
