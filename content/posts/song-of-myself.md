@@ -11,7 +11,9 @@ Rarible is one of the most innovative NFT marketplaces, currently.*
 
 Their in-house [RARI token](https://coinranking.com/coin/z1VVxbAp1+rarible-rari) doubles as a utility token where community users can invoke them for privileges such as voter, curation, and submission powers.
 
-Their market cap is north of $400 million dollars
+Their market cap is north of $400 million dollars.
+
+![](/content/images/rari_marketcap.PNG)
 
 The ERC-20, ERC-1155, & ERC-721 functions.
 
