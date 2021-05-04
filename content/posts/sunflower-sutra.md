@@ -1,6 +1,6 @@
 ---
 date: 2019-08-08T22:42:09.000+00:00
-title: Sunflower Sutra
+title: OpenSea
 author: Allen Ginsberg
 hero_image: "/content/images/image3a6696_mirror.jpg"
 
@@ -12,6 +12,8 @@ hero_image: "/content/images/image3a6696_mirror.jpg"
 With **≈ 6400**^1 ₿ in sales thus far generated, they are the pre-imminent clearinghouse for all things non-fungible in the burgeoning space.
 
 Many Web3 wallets are now applicable to use with OpenSea participation, whether creating, selling, reselling, and/or buying.
+
+![](/content/images/os_heoimage.PNG)
 
 They possess an above-average resource repository for interested individuals with a curiosity for more in-depth acumen to the technology behind NFT's, namely ERC-721, ERC-20, & ERC-1155 protocols.
 
