@@ -1,7 +1,7 @@
 ---
-date: 2019-07-22T22:44:38Z
-title: Song of Myself
-author: Ralph Waldo Emerson
+date: 2021-05-04T07:00:00Z
+title: Rarible
+author: The Jeantreprenuer
 hero_image: "/content/images/ren-ran-bBiuSdck8tU-unsplash.jpg"
 
 ---

@@ -1,7 +1,7 @@
 ---
-date: 2019-08-08T22:42:09.000+00:00
+date: 2021-05-04T07:00:00Z
 title: OpenSea
-author: Allen Ginsberg
+author: Jeremy Bentham
 hero_image: "/content/images/image3a6696_mirror.jpg"
 
 ---
