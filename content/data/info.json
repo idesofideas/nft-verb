@@ -1,5 +1,5 @@
 {
-  "description": "<p>This blog was created using <a href=\"https://forestry.io/\" title=\"Forestry Link\">Forestry</a> &amp; <a href=\"https://www.gatsbyjs.org/\" title=\"Gatsby Link\">Gatsby</a></p>",
+  "description": "<p>This <strong>D</strong>blog is an amalgam of <a href=\"https://forestry.io/\" title=\"Forestry Link\">Forestry</a> + <a href=\"https://www.gatsbyjs.org/\" title=\"Gatsby Link\">Gatsby</a> + GHub + Fleek + IPFS<br><br>It's teleology is to report on the trends, tinkering, and evolution of NFT as a use case of Web3 and smart-contract technology, peer-to-peer networks, &amp; content-based types of information. We believe self-imposed Sybil attacks are a feature and not a bug.</p>",
   "cta": "<p>To get started, import this site into Forestry or checkout the repository <a href=\"https://github.com/kendallstrautman/starter-blog-gatsby\" title=\"Repo Url\">here</a>.</p>",
   "contact": {
     "email": "info@forestry.io",
