@@ -7,7 +7,7 @@ hero_image: "/content/images/image3a6696_mirror.jpg"
 ---
 [OpenSea](opensea.io) is one of the first and surviving digital file brokers on the internet.
 
-     //Consider [ascribe.io](ascribe.io) as a precursor//
+     //Consider [ascribe.io] as a precursor//
 
 With **≈ 6400**^1 ₿ in sales thus far generated, they are the pre-imminent clearinghouse for all things non-fungible in the burgeoning space.
 
